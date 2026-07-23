@@ -17,74 +17,67 @@
     <circle cx="1050" cy="540" r="270" fill="#7c3aed" opacity=".12" filter="url(#blur)"/>
     <rect width="1180" height="610" fill="url(#noise)" opacity=".42"/>
     <g opacity=".55" stroke="#94a3b8" stroke-opacity=".11"><path d="M0 105H1180M0 210H1180M0 315H1180M0 420H1180M0 525H1180"/><path d="M95 0V610M200 0V610M305 0V610M410 0V610M515 0V610M620 0V610M725 0V610M830 0V610M935 0V610M1040 0V610"/></g>
-    <g transform="translate(56 74)">
+    <g transform="translate(50 70)">
       <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" fill="url(#accent)" filter="url(#glow)">
         <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="4s" repeatCount="indefinite"/>
-        <text x="0" y="52" font-size="62" font-weight="900">skx56</text>
+        <text x="0" y="54" font-size="68" font-weight="900">skx56</text>
       </g>
-      <text x="2" y="115" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="34" font-weight="900">Saksham</text>
-      <text x="4" y="145" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">github.com/skx56</text>
-      <rect x="0" y="174" width="354" height="248" rx="22" fill="#020617" fill-opacity=".54" stroke="#334155" stroke-opacity=".62"/>
-      <text x="28" y="216" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="900">Credentials</text>
-      <g><circle cx="34" cy="249" r="5" fill="url(#accent)"/><text x="54" y="254" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="700">AI Product Engineer</text></g><g><circle cx="34" cy="289" r="5" fill="url(#accent)"/><text x="54" y="294" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="700">Applied AI Research</text></g><g><circle cx="34" cy="329" r="5" fill="url(#accent)"/><text x="54" y="334" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="700">Full-stack + ML Systems</text></g><g><circle cx="34" cy="369" r="5" fill="url(#accent)"/><text x="54" y="374" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="700">RAG • Agents • RL</text></g>
-      <g transform="translate(28 390)">
-        <rect width="128" height="30" rx="15" fill="#7c3aed" fill-opacity=".32" stroke="#8b5cf6"/>
-        <text x="18" y="20" fill="#ddd6fe" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="800">BUILD</text>
-        <rect x="144" width="130" height="30" rx="15" fill="#0891b2" fill-opacity=".32" stroke="#06b6d4"/>
-        <text x="162" y="20" fill="#cffafe" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="800">LEARN</text>
-      </g>
+      <text x="4" y="126" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="35" font-weight="900">Saksham Ojha</text>
+      <text x="6" y="156" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">github.com/skx56</text>
+      <rect x="0" y="192" width="306" height="224" rx="24" fill="#020617" fill-opacity=".48" stroke="#334155" stroke-opacity=".55"/>
+      <g><circle cx="31" cy="235" r="5" fill="url(#accent)"/><text x="51" y="240" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15.5" font-weight="800">AI Product Engineer</text></g><g><circle cx="31" cy="275" r="5" fill="url(#accent)"/><text x="51" y="280" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15.5" font-weight="800">Applied AI Research</text></g><g><circle cx="31" cy="315" r="5" fill="url(#accent)"/><text x="51" y="320" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15.5" font-weight="800">Full-stack + ML Systems</text></g><g><circle cx="31" cy="355" r="5" fill="url(#accent)"/><text x="51" y="360" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15.5" font-weight="800">RAG • Agents • RL</text></g>
     </g>
-    <g transform="translate(430 58)">
-      <rect width="700" height="494" rx="22" fill="#0f172a" fill-opacity=".86" stroke="#ffffff" stroke-opacity=".16"/>
-      <rect x="1" y="1" width="698" height="492" rx="21" fill="url(#shine)" opacity=".55"/>
+    <g transform="translate(386 36)">
+      <rect width="758" height="538" rx="24" fill="#0f172a" fill-opacity=".86" stroke="#ffffff" stroke-opacity=".16"/>
+      <rect x="1" y="1" width="756" height="536" rx="23" fill="url(#shine)" opacity=".55"/>
       <circle cx="29" cy="29" r="6" fill="#fb7185"/><circle cx="50" cy="29" r="6" fill="#fbbf24"/><circle cx="71" cy="29" r="6" fill="#34d399"/>
       <text x="100" y="34" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">skx56@github: ~/about</text>
-      <path d="M0 58H700" stroke="#ffffff" stroke-opacity=".1"/>
+      <path d="M0 58H758" stroke="#ffffff" stroke-opacity=".1"/>
       <text x="32" y="83" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="25" font-weight="900">About Me</text>
       <g>
-      <rect x="24" y="99" width="652" height="66" rx="16" fill="#111827" fill-opacity=".62" stroke="#334155" stroke-opacity=".72"/>
-      <rect x="24" y="99" width="6" height="66" rx="3" fill="#2563eb"/>
-      <circle cx="58" cy="132" r="19" fill="#2563eb" fill-opacity=".32" stroke="#2563eb" stroke-opacity=".65"/>
-      <text x="48" y="139" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="800">🔭</text>
-      <text x="92" y="123" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="900">Building</text>
-      <text x="92" y="143" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">AI-native products • Agents • RAG systems</text>
-      <text x="92" y="159" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">ML pipelines • Applied AI research</text>
+      <rect x="24" y="92" width="700" height="64" rx="16" fill="#111827" fill-opacity=".62" stroke="#334155" stroke-opacity=".72"/>
+      <rect x="24" y="92" width="6" height="64" rx="3" fill="#2563eb"/>
+      <circle cx="58" cy="124" r="18" fill="#2563eb" fill-opacity=".32" stroke="#2563eb" stroke-opacity=".65"/>
+      <text x="48" y="131" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="800">🔭</text>
+      <text x="92" y="115" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="900">Building</text>
+      <text x="92" y="135" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">AI-native products • Agents • RAG</text>
+      <text x="92" y="150" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">ML pipelines • AI research</text>
     </g>
 <g>
-      <rect x="24" y="175" width="652" height="66" rx="16" fill="#111827" fill-opacity=".62" stroke="#334155" stroke-opacity=".72"/>
-      <rect x="24" y="175" width="6" height="66" rx="3" fill="#7c3aed"/>
-      <circle cx="58" cy="208" r="19" fill="#7c3aed" fill-opacity=".32" stroke="#7c3aed" stroke-opacity=".65"/>
-      <text x="48" y="215" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="800">👯</text>
-      <text x="92" y="199" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="900">Collaborating</text>
-      <text x="92" y="219" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">Agentic AI • Multimodal apps</text>
-      <text x="92" y="235" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">Retrieval systems • Developer tools</text>
+      <rect x="24" y="166" width="700" height="64" rx="16" fill="#111827" fill-opacity=".62" stroke="#334155" stroke-opacity=".72"/>
+      <rect x="24" y="166" width="6" height="64" rx="3" fill="#7c3aed"/>
+      <circle cx="58" cy="198" r="18" fill="#7c3aed" fill-opacity=".32" stroke="#7c3aed" stroke-opacity=".65"/>
+      <text x="48" y="205" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="800">👯</text>
+      <text x="92" y="189" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="900">Collaborating</text>
+      <text x="92" y="209" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">Agentic AI • Multimodal apps</text>
+      <text x="92" y="224" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">Retrieval systems • Developer tools</text>
     </g>
 <g>
-      <rect x="24" y="251" width="652" height="66" rx="16" fill="#111827" fill-opacity=".62" stroke="#334155" stroke-opacity=".72"/>
-      <rect x="24" y="251" width="6" height="66" rx="3" fill="#059669"/>
-      <circle cx="58" cy="284" r="19" fill="#059669" fill-opacity=".32" stroke="#059669" stroke-opacity=".65"/>
-      <text x="48" y="291" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="800">🤝</text>
-      <text x="92" y="275" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="900">Help With</text>
-      <text x="92" y="295" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">AI reliability • Agent evaluation</text>
-      <text x="92" y="311" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">MLOps • Cloud • Observability</text>
+      <rect x="24" y="240" width="700" height="64" rx="16" fill="#111827" fill-opacity=".62" stroke="#334155" stroke-opacity=".72"/>
+      <rect x="24" y="240" width="6" height="64" rx="3" fill="#059669"/>
+      <circle cx="58" cy="272" r="18" fill="#059669" fill-opacity=".32" stroke="#059669" stroke-opacity=".65"/>
+      <text x="48" y="279" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="800">🤝</text>
+      <text x="92" y="263" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="900">Help With</text>
+      <text x="92" y="283" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">AI reliability • Agent evaluation</text>
+      <text x="92" y="298" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">MLOps • Cloud • Observability</text>
     </g>
 <g>
-      <rect x="24" y="327" width="652" height="66" rx="16" fill="#111827" fill-opacity=".62" stroke="#334155" stroke-opacity=".72"/>
-      <rect x="24" y="327" width="6" height="66" rx="3" fill="#ea580c"/>
-      <circle cx="58" cy="360" r="19" fill="#ea580c" fill-opacity=".32" stroke="#ea580c" stroke-opacity=".65"/>
-      <text x="48" y="367" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="800">🌱</text>
-      <text x="92" y="351" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="900">Learning</text>
-      <text x="92" y="371" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">Reasoning models • Agentic RAG • RL</text>
-      <text x="92" y="387" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">Multimodal AI • AI safety • LLM evaluation</text>
+      <rect x="24" y="314" width="700" height="64" rx="16" fill="#111827" fill-opacity=".62" stroke="#334155" stroke-opacity=".72"/>
+      <rect x="24" y="314" width="6" height="64" rx="3" fill="#ea580c"/>
+      <circle cx="58" cy="346" r="18" fill="#ea580c" fill-opacity=".32" stroke="#ea580c" stroke-opacity=".65"/>
+      <text x="48" y="353" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="800">🌱</text>
+      <text x="92" y="337" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="900">Learning</text>
+      <text x="92" y="357" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">Reasoning models • Agentic RAG • RL</text>
+      <text x="92" y="372" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">Multimodal AI • Safety • LLM eval</text>
     </g>
 <g>
-      <rect x="24" y="403" width="652" height="66" rx="16" fill="#111827" fill-opacity=".62" stroke="#334155" stroke-opacity=".72"/>
-      <rect x="24" y="403" width="6" height="66" rx="3" fill="#dc2626"/>
-      <circle cx="58" cy="436" r="19" fill="#dc2626" fill-opacity=".32" stroke="#dc2626" stroke-opacity=".65"/>
-      <text x="48" y="443" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="800">💬</text>
-      <text x="92" y="427" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="900">Ask Me About</text>
-      <text x="92" y="447" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">AI agents • RAG • LLM evaluation • RL</text>
-      <text x="92" y="463" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">Computer vision • Data science</text>
+      <rect x="24" y="388" width="700" height="64" rx="16" fill="#111827" fill-opacity=".62" stroke="#334155" stroke-opacity=".72"/>
+      <rect x="24" y="388" width="6" height="64" rx="3" fill="#dc2626"/>
+      <circle cx="58" cy="420" r="18" fill="#dc2626" fill-opacity=".32" stroke="#dc2626" stroke-opacity=".65"/>
+      <text x="48" y="427" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="800">💬</text>
+      <text x="92" y="411" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="900">Ask Me About</text>
+      <text x="92" y="431" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">AI agents • RAG • LLM eval • RL</text>
+      <text x="92" y="446" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="700">Computer vision • Data science</text>
     </g>
     </g>
     <rect x="1" y="1" width="1178" height="608" rx="25" fill="none" stroke="url(#accent)" stroke-opacity=".75"/>
