@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
-  <img alt="Saksham - AI product engineer and applied AI builder" src="assets/profile-light.svg" width="1180" height="610">
+  <img alt="Saksham - AI product engineer and applied AI builder" src="assets/profile-light.svg" width="100%">
 </picture>
 
 # 💻 Tech Stack:
